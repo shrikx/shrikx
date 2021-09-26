@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrikx
 - 👀 I’m interested in frontend and backend development.
 - 🌱 I’m currently learning web development on udemy.
-- 💞️ Mainly I'm an ECE student who love to code and sing.
+- 💞️ I'm an ECE student who love to code and sing.
 - 📫 Here's how to reach me - Email: shrishtisingh2321@gmail.com
 
 <!---
